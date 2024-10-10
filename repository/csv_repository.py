@@ -1,5 +1,5 @@
 import csv
-from database.connect import taxi_db, drivers, cars
+from database.connect import drivers, cars
 
 
 def read_csv(csv_path):
